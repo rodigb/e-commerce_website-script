@@ -14,4 +14,4 @@ chmod 755 xampp-linux-x64-8.0.8-1-installer.run
 ls -l xampp-linux-x64-8.0.8-1-installer.run
 sudo ./xampp-linux-x64-8.0.8-1-installer.run #run the installer
 
-echo "INSTALLATION COMPLETE. MOVE WEBSITE FOLDER INTO HTDOCS: sudo mv /home/[user]/git/opt/lampp/htdocs"
+echo "INSTALLATION COMPLETE. MOVE WEBSITE FOLDER INTO HTDOCS MANUALLY: sudo mv /home/[user]/git/opt/lampp/htdocs"
